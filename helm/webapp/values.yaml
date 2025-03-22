@@ -8,7 +8,7 @@ image:
   repository: kkbalajius/argocd-course-webapp
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: 9a6fb153e53c64918e7fbd8b2d96ea27c8a0f3ae
+  tag: c0c3e94c17d879abf6d8aae2f94b7da063c97718
 
 imagePullSecrets: []
 nameOverride: ""
